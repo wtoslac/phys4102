@@ -1,0 +1,13 @@
+This data is for PHYS4102
+Lecture on how to Parse a Data file
+So this is actually not the data you want.
+1	1.5
+2	2.3
+3	-0.1
+4	0.014
+5	8.9
+6	12.52
+7	3e-3
+8	15.7
+9	nan
+10	1.23
